@@ -1,0 +1,5 @@
+baseurl = "https://blogs.ryanrampersad.com/sudo/"
+languageCode = "en-us"
+title = "sudo: a ryan rampersad software engineering blog"
+
+theme = "slim"
