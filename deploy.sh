@@ -1,5 +1,3 @@
-
-
 echo "removing /public"
 rm -rf public
 
